@@ -2,7 +2,7 @@
 A free public proxies list tested and updated every hour.
 <br>
 <br>
-[![proxy-list](/proxy.png)](https://github.com/x-o-r-r-o/proxy-list/)
+[![proxy-list](/proxy.jpg)](https://github.com/x-o-r-r-o/proxy-list/)
 
 ```bash
 # You can use these proxies with GSA Search Engine Ranker, Scrapebox, Bots, Xrumer, And all available softwares. Please remember we are not responsible how you use these proxies. We are just providing a working proxies list to help you so you do not have to buy bunch of softwares to get this job done.
