@@ -1,5 +1,5 @@
 # proxy-list
-A free public proxies list tested and updated every hour.
+A free public proxies list tested and updated daily.
 <br>
 <br>
 [![proxy-list](/proxy.jpg)](https://github.com/x-o-r-r-o/proxy-list/)
